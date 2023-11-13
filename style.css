@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.i{
+    display: flex;
+    justify-content: center;
+}
+h1,h2{
+    text-align: center;
+    color: blueviolet;
+}
+li{
+    color: aquamarine;
+}
+p{
+    color: red;
+}
